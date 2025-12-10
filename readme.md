@@ -23,17 +23,15 @@
 
 ---
 
-## 📦 Projects
+## 📦 Product
 
 非公開プロジェクトが多いため詳細は記載できませんが、Private contributions で日々開発を継続しています。
 
-- MIRAI 教務・学生管理 SaaS（多言語・多テナント対応）
-- 大学人事システム（Spring Boot & Vue3）
-- 物流・WMS システム（多店舗・多倉庫対応）
-- 家政 SaaS / 资产管理アプリ
-- Flutter 学習アプリ & OCR 連携
+- 物流・WMS（多店舗・多倉庫対応）
+- 资产管理アプリ
+- 家計簿アプリ
 ## 🤝 Contact
 
 - GitHub: [@andydev920](https://github.com/andydev920)
-- LinkedIn: （お好みで追加してください）
+- X (Twitter): （登録後にハンドルを追記してください）
 - Mail: （公開用アドレスを追加できます）
