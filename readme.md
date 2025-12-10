@@ -24,14 +24,6 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-121212?logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=google&logoColor=white) ![AI OCR](https://img.shields.io/badge/AI%20OCR-0061A8) ![Face Recognition](https://img.shields.io/badge/Face%20Recognition-444?logo=github&logoColor=white) ![LayoutLM](https://img.shields.io/badge/LayoutLM-0D47A1) ![Automation](https://img.shields.io/badge/Automation-4CAF50?logo=python&logoColor=white)
 
 ---
-
-## 📦 Product
-
-非公開プロジェクトが多いため詳細は記載できませんが、Private contributions で日々開発を継続しています。
-
-- 物流・WMS（多店舗・多倉庫対応）
-- 资产管理アプリ
-- 家計簿アプリ
 ## 🤝 Contact
 
 - GitHub: [@andydev920](https://github.com/andydev920)
