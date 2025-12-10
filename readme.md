@@ -1,9 +1,11 @@
-# 有福 (andydev920) | Software Engineer / System Architect
+# 有福 (youfuu)
 
 [![Follow](https://img.shields.io/github/followers/andydev920?label=Follow&style=social)](https://github.com/andydev920) ![Profile Views](https://komarev.com/ghpvc/?username=andydev920&color=0ca5e9&style=flat)
 
-こんにちは、有福です。  
-日本を拠点にしつつ、グローバル向けの教育・業務系 SaaS、学生管理システム、教務・人事システム、WMS などを、フロントからバックエンド、インフラ、モバイル、ワークフロー、AI 連携まで一気通貫で構築しています。
+> 👋 こんにちは、有福（youfuu）です。  
+> 🧭 中国出身で、重庆大学を卒業し、ソフトウェア開発に20年ほど関わっています。  
+> 🔧 現在は日本で教育・業務向けのシステムや SaaS を中心に、バックエンド、フロント、インフラ、モバイルまで一通り手を動かしています。  
+> 🎓 いまは日本の大学院進学に向けて勉強中です。
 
 ---
 
