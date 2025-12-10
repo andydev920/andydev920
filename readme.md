@@ -1,6 +1,6 @@
 # 有福 (andydev920) | Software Engineer / System Architect
 
-[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandydev920&count_bg=%230099FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com) [![Follow](https://img.shields.io/github/followers/andydev920?label=Follow&style=social)](https://github.com/andydev920) ![Profile Views](https://komarev.com/ghpvc/?username=andydev920&color=0ca5e9&style=flat)
+[![Follow](https://img.shields.io/github/followers/andydev920?label=Follow&style=social)](https://github.com/andydev920) ![Profile Views](https://komarev.com/ghpvc/?username=andydev920&color=0ca5e9&style=flat)
 
 こんにちは、有福です。  
 日本を拠点にしつつ、グローバル向けの教育・業務系 SaaS、学生管理システム、教務・人事システム、WMS などを、フロントからバックエンド、インフラ、モバイル、ワークフロー、AI 連携まで一気通貫で構築しています。
@@ -32,19 +32,8 @@
 - 物流・WMS システム（多店舗・多倉庫対応）
 - 家政 SaaS / 资产管理アプリ
 - Flutter 学習アプリ & OCR 連携
-
----
-
-## 📊 Activity
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=andydev920&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)](https://github.com/andydev920)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andydev920&layout=compact&theme=transparent&hide_border=true)](https://github.com/andydev920)
-
----
-
 ## 🤝 Contact
 
 - GitHub: [@andydev920](https://github.com/andydev920)
 - LinkedIn: （お好みで追加してください）
 - Mail: （公開用アドレスを追加できます）
-
