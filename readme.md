@@ -13,20 +13,4 @@
 - **DevOps**: Docker / Docker Compose / Drone CI / Jenkins / Linux / Nginx / frp 内网穿透 / GitHub Actions（準備中）/ Gitea
 - **AI・Automation**: ChatGPT / Claude / Gemini 採用、AI OCR / Face Recognition / LayoutLM、業務改善向け自動化スクリプト
 
----
 
-## 📦 Projects
-
-非公開プロジェクトが多いため詳細は記載できませんが、Private contributions で日々開発を継続しています。
-
-- MIRAI 教務・学生管理 SaaS（日本教育機関向け）
-- 大学人事システム（Spring Boot & Vue3）
-- 物流・WMS システム（多店舗・多倉庫対応）
-- 家政 SaaS / 资产管理アプリ
-- Flutter 学習アプリ & OCR 連携
-
----
-
-## 📊 GitHub 活動状況
-
-Private Contributions を含め、継続的にコミットしています。最新の開発状況やコード例については、お気軽にお問い合わせください。
